@@ -1,1 +1,1 @@
-# ML-model-pipeline-and-deployment
+# This repo is about ML ops, pipeline, deployment etc.
