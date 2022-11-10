@@ -1,18 +1,10 @@
-<p align = "center" draggable=”false” ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png" 
-     width="200px"
-     height="auto"/>
-</p>
-
-
 
 ## <h1 align="center" id="heading">:wave: Welcome to Software Development for MLOps 101!!</h1>
 
-Welcome to the beginning of your journey to becoming an ML Operations (MLOps) Engineer! 🎉 Follow these steps to get your development environment teed up! After you've finished this set-up, feel free to go through the associated `Whodunit?`! 🕵️‍♀️
-
+Welcome to the beginning of your journey to becoming an ML Operations (MLOps) Engineer! 🎉 Follow these steps to get your development environment teed up! After you've finished this set-up.
 
 ## :books: Quick Review
-We will be using some terminal commands, so let's make sure you know what they are and what they do! 
-
+We will be using some terminal commands.
 | Command      | Stands For |  Description |
 | ----------- | ----------- | -------------|
 | `ls`      | long listing       | lists all files and directories in the present working directory |
@@ -577,11 +569,3 @@ Then click `Create Repository`.
   </p>
   
 </details>
-
-
-<p></p>
-
-# :detective: Whodunit? 
-Now let's practice  what you have learned by playing the [Whodunit?](https://github.com/FourthBrain/whodunit) game!
-
-### That's it for now!  And so it begins.... :)
